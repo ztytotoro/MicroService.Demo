@@ -1,0 +1,11 @@
+{
+    "service": {
+        "id": "service",
+        "name": "service",
+        "tags": [
+            "dotnet"
+        ],
+        "address": "localhost",
+        "port": 5000
+    }
+}
